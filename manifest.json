@@ -1,0 +1,12 @@
+{
+	"name":"bilibili每日排行",
+	"version":"1.0",
+	"manifest_version":2,
+	"description":"各区每日排行top10",
+	"permissions":["http://www.bilibili.com/"],
+	"browser_action":{
+		"default_icon": "img/icon16.png",
+		"default_title": "bilibili_ranking",
+		"default_popup": "test2.html"
+	}
+}
